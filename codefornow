@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html>
+<body>
+<head>
+    <title>Operation 1834</title>
+
+    <!-- Style block for heading colors -->
+    <style>
+        h1, h2, h3, h4, h5 {
+            color:darkblue;
+            }
+        body {
+            background-color:rgb(243, 249, 255)
+        }
+
+        #lt, #dc, #st, #fm, #ct, #ot {
+            color:rgb(1, 78, 194);
+            font-size: 14px;
+            font-weight: bold;
+            margin-top: 20px;
+        }    
+        body {
+            font-family: Georgia, 'Times New Roman', Times, serif;
+        }
+        ::-webkit-scrollbar {
+            width: 8px;
+        }
+
+        ::-webkit-scrollbar-thumb {
+        background-color: rgb(115, 222, 255);
+        border-radius: 4px;
+    }
+
+    </style>
+</head>
+
+
+    <!-- Main heading and introduction -->
+    <h1>Welcome to the official Operation 1834 website</h1>
+
+
+    <!-- table of contents -->
+    <p id = tableofcon>
+        <!--to be continued-->
+    </p>
+
+
+
+        <!-- Explanation of the organization's name -->
+    <h2 id = whyname>Why the name Operation 1834?</h2>
+    <p>
+        When you saw our name, what did you think? If you guessed that 1834 has something to do with the year,
+        you're correct! 1834 is the year that Canada abolished (got rid of, for those that don't know the meaning)
+        slavery - or so we thought. To this very day, slavery is still a thing, believe it or not, since human
+        trafficking is a form of modern-day slavery, whether it be forced labor, sex slavery, or other.
+        <h4>Meet the team and their roles:</h4>
+            <div>- Treasurer (Finance): Tori</div>
+            <div>- Accountant (Finance): Reyanna</div>
+            <div>- Media Directors (Media Management): Reyanna, Rithika, Sharon, Tori, Sasaana</div>
+            <div>- Researchers (Research): Tessa, Ashwika, Sharon, Sasaana</div>
+            <div>- Board Liaison (Event Organization): Rithika</div>
+            <div>- Outreach Coordinator (Event Organization): Sharon</div>
+    </p>
+    <!-- Mission statement and awareness message -->
+
+    <h2 id = whatdo> Okay, but what do we do?</h2>
+    <p>
+        In short, we are a Canadian organization that spreads awareness about human trafficking.
+        Human trafficking is a serious issue that can affect anyone. Honestly, it's not talked about enough.
+        Think about it. When was the last time a friend or family member actually mentioned human trafficking in a conversation
+        and both actually started thinking about it? When was the last time it came up in school during a lesson?
+        That's what we're here to do. To educate you and others about this horrific crime.
+    </p>
+
+
+    <!-- Definition and explanation of human trafficking -->
+    <h2 id = whatisht>So what even <em>is</em> human trafficking?</h2>
+    <p>
+        Simple explanation:
+        Human trafficking is the second largest and fastest-growing crime in the world. It's also one of the most
+        misunderstood ones because it affects many different people and involves other crimes, and happens in many
+        locations as well. There are six main kinds of trafficking:
+    </p>
+
+
+      <!-- List of trafficking types and details -->
+    <ul>
+        <ol>
+            <li id = "lt">Labor trafficking
+                <ul>
+                    <li>Harsh/dangerous working conditions</li>
+                    <li>Paid less than minimum wage</li>
+                    <li>Most victims are tricked into believing they are in debt</li>
+                </ul>
+            </li>
+
+            <li id = "st">Sex trafficking
+                <ul>
+                    <li>Forced into acts of sex by deception, threats or violence</li>
+                    <li>Happens in brothels, massage parlors, hotels, or online</li>
+                    <li>Anyone under 18 is a victim</li>
+                </ul>
+            </li>
+
+            <li id = "dc">Domestic Certitude
+                <ul>
+                    <li>Forced to live in private homes, away from public view</li>
+                    <li>Often verbally and/or physically abused</li>
+                </ul>
+            </li>
+
+            <li id = "fm">Forced Marriage
+                <ul>
+                    <li>Most commenly women and girls are coerced into marriage against their will, but men and boys can also be in a forced marriage</li>
+                    <li>Usually the marriage is toxic</li>
+                    <li>Sometimes tied to cultural or economic pressures</li>
+                </ul>
+            </li>
+
+            <li id = "ct">Child trafficking
+                <ul>
+                    <li>Children are trafficked for labor, sex, begging, or even adoption scams</li>
+                    <li>Includes child soldiers, recruited and used in armed conflict, especially in war-torn regions.</li>
+                </ul>
+            </li>
+
+            <li id = "ot"> Organ trafficking
+                <ul>
+                    <li>Victims are exploited for their organs, often under false pretenses or without consent</li>
+                    <li>This is a lesser-known but deeply disturbing form of trafficking, especially in regions with poor healthcare access.</li>
+                </ul>
+            </li>
+        </ol>
+    </ul>
+
+    <!--Why it is important to know-->
+    <h2 id = whyimportant>Why is it important to educate/be educated about human trafficking?</h2>
+    <p>
+        If you're a parent or teacher reading this, you probably want to know <em>why</em> you should educate
+        your child(ren)/students. There's a few reasons why, but the main one is because if your child(ren)/students
+        know as much as they can about human trafficking, it'll be more likely that they'll see the signs of
+        human trafficking and know if they are or someone else is a victim.
+    </p>
+    <p>
+        If you are a child reading this,
+    </p>
+
+    
+
+    <!-- Third question heading -->
+    <h2 id = whichgroup>Which group of people are targeted the most and why?</h2>
+    <ol>
+        <li>
+            Women and children ; commonly considered the most vulnerable
+        </li>
+        <li>
+            Migrants and refugees ; may not fully understand what the trafficker is doing
+        </li>
+        <li>
+            People with disabilities and/or mental health challenges ; also may not fully understand what the trafficker is doing
+        </li>
+        <li>
+            LGTBQ+ youth ; lured in by promise of a safe and accepting enviroment
+        </li>
+    </ol>
+    <p>
+        One thing all victims have in common is vulnerability. Think about it. If someone were to traffick someone else,
+        do you think that they would rather go after someone invulnerable, or vulnerable? The latter? Yeah, I thought so
+        too.
+    </p>
+    
+    <!-- Infographic image -->
+    <img src="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Graphics+Library/24-01-2023-UNODC-trafficking-inforgraphic.jpg/image1024x768.jpg"
+         alt="Main forms of human trafficking in 2020 (or more recent)"
+         width="1000">
+</body>
+</html>
